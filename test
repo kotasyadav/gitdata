@@ -31,4 +31,23 @@ git clone kotasyadav@gmail.com<repourl>
 git pull origin master
 
 git add .
+git commit -m "add"
+git push origin master
+
+New Branch
+
+git branch
+git branch dev
+git branch
+git checkout dev
+git branch
+git diff
+git status
+git checkout master
+git diff
+git log
+git merge dev
+git merge master
+
+
 
