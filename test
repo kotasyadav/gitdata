@@ -1,1 +1,34 @@
-this it text 
+git config --system user.name edurekha
+git config --system -l
+git config --system user.name edurekha-new
+git config --system -l
+git config --global -l
+git config --gloabl user.email edu@gmail.com
+>project
+git config --local user.eamil kotasyava@gmail.com
+git config --local user.name kotasyadav
+git config --local -l
+git config -l
+Remove:
+
+git config --unset key-name
+git conig --get-regexp user.*
+
+New Project
+
+cd my proj
+
+git init
+ls -l .git
+cat .git/config
+
+git config user.name kotasaydav
+git congig user.email kota@gmail.com
+
+git status
+
+git clone kotasyadav@gmail.com<repourl>
+git pull origin master
+
+git add .
+
